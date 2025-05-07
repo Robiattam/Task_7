@@ -1,1 +1,2 @@
 # Task_7
+In this task,I used Support Vector Machines (SVM) for binary classification using Scikit-learn, NumPy, and Matplotlib—starting with loading a dataset (like Breast Cancer), training SVMs with linear and RBF kernels, visualizing 2D decision boundaries, tuning hyperparameters (C, gamma), and evaluating performance using cross-validation to understand margin maximization, kernel trick, and model tuning.
